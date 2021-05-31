@@ -14,7 +14,7 @@ Sorry for the incovenience!
 =[
 
 
-## Caveats:
+## Caveats
 - For now, only the PostgreSQL database is supported
 - We performed experiments using copies of real databases, but we strongly recommend that you set up a sandbox environment in order to validate the results. We also reinforce
 that we did not stress all industrial use cases. So use it carefully.
