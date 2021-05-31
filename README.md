@@ -7,8 +7,12 @@ The RevolutionCASE Toolis a result of my master's degree research.
 - Script Generation or Forward Engineering: It's up to the developer whether he wants to run the refactoring straight from the tool or copy the script from the Script View
 - It worth note that all refactorings, as well as the research that inspired this tool, was based on Pramod Sadalage's book Refactoring Databases : Evolutionary Database Design
 
-## How to 
-You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and script to run a End-to End Test and understand the Workflow
+## How to Download and Use
+You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and script to run a End-to End Test and understand the Tool's Workflow. 
+Soon an more complete and concise tutorial will be available in english language.  
+Sorry for the incovenience!  
+=[
+
 
 ## Caveats:
 - For now, only the PostgreSQL database is supported
