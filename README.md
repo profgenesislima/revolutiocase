@@ -5,11 +5,11 @@ The RevolutionCASE Tool is the result of my master's degree research.
  - Partial Reverse Engineering: the developer brings to the canvas only the concerning tables to refactor 
  - Modeling Language: using a unique language to model both relational and refactoring, the RevolutionCASE tool delivers simple constructors and properties to set up and run the refactoring quickly 
 - Script Generation or Forward Engineering: It's up to the developer whether he wants to run the refactoring straight from the tool or copy the script from the Script View
-- It worth note that all refactorings, as well as the research that inspired this tool, was based on Pramod Sadalage's book Refactoring Databases : Evolutionary Database Design
+* It worth note that all refactorings, as well as the research that inspired this tool, was based on Pramod Sadalage's book Refactoring Databases : Evolutionary Database Design
 
 ## How to Download and Use
-You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and script to run a End-to End Test and understand the Tool's Workflow. 
-Soon an more complete and concise tutorial will be available in english language.  
+You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and the script to run a End-to End Test and understand the Tool's Workflow.  
+Soon a more complete and concise tutorial will be available in english language.  
 Sorry for the incovenience!  
 =[
 
