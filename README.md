@@ -1,5 +1,5 @@
 # RevolutionCASE
-The RevolutionCASE Toolis a result of my master's degree research.
+The RevolutionCASE Tool is the result of my master's degree research.
  This project enables the developer to automatically and visually execute structural refactor on a production database. 
  RevolutionCASE has the following features: 
  - Partial Reverse Engineering: the developer brings to the canvas only the concerning tables to refactor 
