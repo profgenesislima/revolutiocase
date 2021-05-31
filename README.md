@@ -12,8 +12,8 @@ This project is a resulting product of my master's degree research.
 - We performed experiments using copies of real databases, but we strongly recommend that you set up a sandbox environment in order to validate the results. We also reinforce
 that we did not stress all industrial use cases. So use it carefully.
 
-Any suggestions or comments please, let me know. You can hit me on:
-email: profgenesislima@gmail.com or gjfpl@cin.ufpe.br
+Any suggestions or comments please, let me know. You can hit me on:  
+email: profgenesislima@gmail.com or gjfpl@cin.ufpe.br  
 phone: +5581971085512
 
 ## Team
