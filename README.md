@@ -15,11 +15,11 @@ Sorry for the incovenience!
 
 
 ## Caveats
-- For now, only the PostgreSQL database is supported
+- For now, only the PostgreSQL database is supported.
 - We performed experiments using copies of real databases, but we strongly recommend that you set up a sandbox environment in order to validate the results. We also reinforce
 that we did not stress all industrial use cases. So use it carefully.
 
-Any suggestions or comments please, let me know. You can hit me on:  
+Any suggestions or comments, please, let me know. You can hit me on:  
 email: profgenesislima@gmail.com or gjfpl@cin.ufpe.br  
 phone: +5581971085512
 
