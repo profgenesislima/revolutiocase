@@ -25,5 +25,5 @@ phone: +5581971085512
 
 ## Team
 - Gênesis Lima (Researcher and Developer)
-- Robson Fidalgo (Supervisor and Q&A)
-- Edson Alves (Consultant and Q&A)
+- Robson Fidalgo (Supervisor and QA)
+- Edson Alves (Consultant and QA)
