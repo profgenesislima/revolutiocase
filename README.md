@@ -8,7 +8,7 @@ The RevolutionCASE Tool is the result of my master's degree research.
 * It worth note that all refactorings, as well as the research that inspired this tool, was based on Pramod Sadalage's book Refactoring Databases : Evolutionary Database Design
 
 ## How to Download and Use
-You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and the script to run a End-to End Test and understand the Tool's Workflow.  
+You can download the tool [here](https://github.com/profgenesislima/revolutiocase/releases/download/v1.0/revolutioncase.rar) along with the dissertation and the script to run a End-to-End Test and understand the Tool's Workflow.  
 Soon a more complete and concise tutorial will be available in english language.  
 Sorry for the incovenience!  
 =[
